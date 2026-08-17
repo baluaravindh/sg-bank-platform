@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: customer-service
+    name: notification-service
 
   datasource:
     url: jdbc:mysql://localhost:3306/sg_notification_service
